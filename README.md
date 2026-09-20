@@ -29,7 +29,7 @@ I build small, self-hosted apps: Android, Python, offline-first, no accounts.
   </tr>
   <tr>
     <td width="120" align="center">
-      <a href="https://github.com/Manofmomo/drtrust-scale-reader"><span style="font-size:64px">⚖️</span></a>
+      <a href="https://github.com/Manofmomo/drtrust-scale-reader"><h1>⚖️</h1></a>
     </td>
     <td>
       <h3><a href="https://github.com/Manofmomo/drtrust-scale-reader">drtrust-scale-reader</a></h3>
